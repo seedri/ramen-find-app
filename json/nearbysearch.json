@@ -1,0 +1,1065 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AWU5eFiqaNZ10HWKU-Uzz8NXlbmITdK54qljnY2S2EWjKe3MOGhiqN07ZFcmhNPNPphgBX9MPZ1ujA3qBT1rjml0IgtdLakLYrV7qQx8qw-PJHfgbyDxwH5E-uF9F1k1MmjVPPpWKmSjNc73FOLchBSFqPGLlKDPMBa09r8mBUkfQqjWfXo83F9GqMECWlWLR_j4LiycBYOHVe2Q26m96leFOuMkwF5bMHK8J9czemaUpSDrYOpvIDB6789cPHUn9Pr4cdl71djKanpgZWUydZDZ_rrQ9cmuSFqDft9unZvDtxN0XCtawDRvEnTQroPPaMOQrdksrqsxWTOinVHGG_Cmhks7bWobUnJHe5x0NoDjepgeo4EANcVBWfXPxQ7q2TLL8el5rsNVnPDslAtnCvICMG8BNPDIMM_n7yVJMJWzRryO-uZFUMUruh51KSplOw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2615667,
+                    "lng": 140.8472165
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26290052989272,
+                        "lng": 140.8485820798927
+                    },
+                    "southwest": {
+                        "lat": 38.26020087010728,
+                        "lng": 140.8458824201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "スタミナラーメンさわき",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/110710347287288706507\"\u003eRyuji Kimura\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFjFVtmfdT7A1NZ3OY0SVYfsyJUtsAuNjbCFXR_tkvzwnoDPm_IBYTynw74rdtLAAqitjlyt9YDpDoMUDQhbyZZ0tvko3cWVPT0nl46mp_r-VVe2_-TOWlyn-44M_IL3cnCMvx0F13FvJLKQeJc_pE0Oo2WsFTmc3skm41ztXniH55e4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJJRooEUwoil8Ry4JuWitvTqA",
+            "plus_code": {
+                "compound_code": "7R6W+JW 仙台市、宮城県",
+                "global_code": "8RC27R6W+JW"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJJRooEUwoil8Ry4JuWitvTqA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 375,
+            "vicinity": "仙台市青葉区川内亀岡町５２−１"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.267594,
+                    "lng": 140.8440138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26894727989272,
+                        "lng": 140.8454526798927
+                    },
+                    "southwest": {
+                        "lat": 38.26624762010727,
+                        "lng": 140.8427530201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "らあめん一番星",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4576,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/108870334125191829830\"\u003et endo\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFg5ZRWOG9csXsvahgPFFLWufHFtn2emWPgfbAi6pixw64M5Pi2G4so0fDg_uUkzJUDhDMuAK15XwwrIraAVAN4epeyT6ny2D8siesoRFiQBVRJVADhfMsnhMl3l3-hCS6sz5qLbrKF-JfCGupQ7JneT4_vXvkq8WneRqDPvr4UjRRpA",
+                    "width": 3432
+                }
+            ],
+            "place_id": "ChIJ9UHat7Upil8R6HjTnxFhTo0",
+            "plus_code": {
+                "compound_code": "7R9V+2J 仙台市、宮城県",
+                "global_code": "8RC27R9V+2J"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ9UHat7Upil8R6HjTnxFhTo0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 400,
+            "vicinity": "仙台市青葉区八幡５丁目１−１２"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2698107,
+                    "lng": 140.8525582
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.27122157989272,
+                        "lng": 140.8539366798927
+                    },
+                    "southwest": {
+                        "lat": 38.26852192010728,
+                        "lng": 140.8512370201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "らーめん よっちゃん(仮)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104357536850874683526\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFgh44M782ni_0RHsLHmtPfvBNMp4PkQl-lY8VaRWdYQ0sxtJvtVaig-EV4pKrCDnin1yphtquiaOnh57OZ5KXxMiNIPReZYB4pPW6y4nxvOX27V_FqPh1iUW3zuVeJTDx7Gp_hXDlxbDCLngMUf4lpgyUFcf0JsQ6ZYtE_b9SWceWB3",
+                    "width": 4864
+                }
+            ],
+            "place_id": "ChIJd2MZgMwpil8RApu8E_Yt5Mg",
+            "plus_code": {
+                "compound_code": "7V93+W2 仙台市、宮城県",
+                "global_code": "8RC27V93+W2"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJd2MZgMwpil8RApu8E_Yt5Mg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 475,
+            "vicinity": "仙台市青葉区八幡１丁目４−２６"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2703696,
+                    "lng": 140.8510042
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.27171942989272,
+                        "lng": 140.8523837798927
+                    },
+                    "southwest": {
+                        "lat": 38.26901977010728,
+                        "lng": 140.8496841201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "麺屋吉兆。",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/102926161458665652881\"\u003eゆうみ\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFizKcD32o9yMJwbdwHsvCEjcOQh0N5EM66gyZN9rqGpJNng3csT4waeL0sxCGFemhzTG62ZW41E3iBbD9koSg1DJYXGwjyWAHVDmW7Gnk5q6ptYC-Yryj5A-E7kopJCLDC3Dee-HqutPLlRQVy1Ngdi7xFj35lDXUVwKLDUTANGPB7e",
+                    "width": 5333
+                }
+            ],
+            "place_id": "ChIJPb7mjMspil8RI8kUQzRMWHM",
+            "plus_code": {
+                "compound_code": "7VC2+49 仙台市、宮城県",
+                "global_code": "8RC27VC2+49"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJPb7mjMspil8RI8kUQzRMWHM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 170,
+            "vicinity": "仙台市青葉区八幡２丁目５−１"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2696508,
+                    "lng": 140.8586254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.27090987989271,
+                        "lng": 140.8599699298927
+                    },
+                    "southwest": {
+                        "lat": 38.26821022010727,
+                        "lng": 140.8572702701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "らーめんの千草 仙台分店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 715,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/107058799021291603487\"\u003e三浦克広\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFg5nFgbJfAmXNr3H8aTiVRAmahIOHAPJOh3r8x-2oiKT0_EreZk97VK-YUCj2jTg3kZocWVwI7t_4xHDqeW_1p_PxIh1-6HngiXl6lgvc6m3DXQ9fPNN-vC6kKUz6FGeLAFHMV73UUCfg-c3Kk8PD1T0Bhk6e7qlu4s5nLDwpUPaXAk",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJvYF91OEpil8Re35f4aD_AKc",
+            "plus_code": {
+                "compound_code": "7V95+VF 仙台市、宮城県",
+                "global_code": "8RC27V95+VF"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJvYF91OEpil8Re35f4aD_AKc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "仙台市青葉区広瀬町４−３８ 第三冬見ビル １階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2675842,
+                    "lng": 140.8628582
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26891902989272,
+                        "lng": 140.8641342298927
+                    },
+                    "southwest": {
+                        "lat": 38.26621937010728,
+                        "lng": 140.8614345701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ラーメン専門店 おり久 木町通店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106263439155443823615\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFjNyxzNx0CF7XgTVE7noiLNCrP5dmv4cvydHc4QttYrOrq6uZpFvjTGZGabX1umNHrKjuCPnYLtjztTwnb488EDND9NGZcIsMkJC2T9pg6hXFNyzsaMYIRqAwD1m3i1N3OqfwFMuIFS5ps8bVY3B74EgG7iunaqZNlnKYRacncWYSMU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJRzyYIjIoil8RhQ65kuSE-ts",
+            "plus_code": {
+                "compound_code": "7V97+24 仙台市、宮城県",
+                "global_code": "8RC27V97+24"
+            },
+            "price_level": 2,
+            "rating": 3.5,
+            "reference": "ChIJRzyYIjIoil8RhQ65kuSE-ts",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 290,
+            "vicinity": "仙台市青葉区木町通１丁目３−１２"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2616311,
+                    "lng": 140.8661977
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26293317989272,
+                        "lng": 140.8675686798927
+                    },
+                    "southwest": {
+                        "lat": 38.26023352010728,
+                        "lng": 140.8648690201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ラーメン二郎 仙台店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/117141906379670486556\"\u003eHisanori Shimamura\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFiS-RKdDun1Syrb9MGmXGbq5kxdxOFMtJIM2FbzfgSa2si8NpOgMrIb1r4FQXZnRSxdbJW-YEfyc9UzxAZxXyZ3B6UqO5HXsDwIGIk8-j3c-gUPX9wwd1uBBY-SUFyATeNDNN8lsDjKV3rQpsbHPkPcn8u0BK5z8NhKlNgy5ODDigk",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ0eyAgDkoil8RoD06Xr-dpX8",
+            "plus_code": {
+                "compound_code": "7V68+MF 仙台市、宮城県",
+                "global_code": "8RC27V68+MF"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJ0eyAgDkoil8RoD06Xr-dpX8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1494,
+            "vicinity": "仙台市青葉区立町２−８"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2631635,
+                    "lng": 140.8676907
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26450157989272,
+                        "lng": 140.8689806298927
+                    },
+                    "southwest": {
+                        "lat": 38.26180192010728,
+                        "lng": 140.8662809701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "麺や鳳園",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/103891237886457516449\"\u003e石坂哲哉\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFhOoqWxUGvGCdexMarBzF-HLBbxtQB6IQ2n79MWBSbvjZJHCqAQZKdGFA6ECVnxTuIyNUMFi5YwKUytki84WvqnQkpMn-ACsom1ZOMx9IYkg7fIometgpAi-n_3yUiNel0zrvmYeocvv5yXKTnlcVDADsgJUkCY9Nbs5asfo13vmx8F",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJG5LTXzooil8R97i75POZyUw",
+            "plus_code": {
+                "compound_code": "7V79+73 仙台市、宮城県",
+                "global_code": "8RC27V79+73"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJG5LTXzooil8R97i75POZyUw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77,
+            "vicinity": "仙台市青葉区国分町２丁目８−８"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2666549,
+                    "lng": 140.8671392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26804157989272,
+                        "lng": 140.8684765298927
+                    },
+                    "southwest": {
+                        "lat": 38.26534192010728,
+                        "lng": 140.8657768701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "豚骨醤油ラーメン ビッグ本店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/102581056218898726624\"\u003eR SASAZAWA\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFgzqO2JSdnHjwJRN1c2iIinhZptv9yFXb8hOortywkYZII-eSUomahVvCqFsnlFHOIeNKKrrLTse8a9d4UTcDGePi9Z5ecAEQuvV3ixILE7Xqd_0dwyxYT5vyhcY8pdoRJRSf-WLv5XFHbEyaQS5MeyQmbWvRNGo0RcXg99R7MrHeSa",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ___D_jAoil8R9llwWRYXSnw",
+            "plus_code": {
+                "compound_code": "7V88+MV 仙台市、宮城県",
+                "global_code": "8RC27V88+MV"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ___D_jAoil8R9llwWRYXSnw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 472,
+            "vicinity": "仙台市青葉区国分町３丁目４−２１"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.263236,
+                    "lng": 140.868808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26455227989273,
+                        "lng": 140.8701033298927
+                    },
+                    "southwest": {
+                        "lat": 38.26185262010728,
+                        "lng": 140.8674036701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "味噌ラーメンひぐまや仙台国分町店",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/107206010990501707376\"\u003e松林大介\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFjWhDX3r9glnASpB6iZ6-0EZMCP7RgDTWqDqPH27W4URa0ndp9LXpDUxVXySpzwHjBqY5gFCZlgvgYQRT7UHHJWkZcvw08hltMk8G4zBe3dL0zuQEbeGafKWviogYCkW61TNb7UPJcaq5IO_tiLcGNQ2KbJfO3ZA3g1GmM-IjeC5hUS",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ9SGcKXEpil8R7qUIn2JJad0",
+            "plus_code": {
+                "compound_code": "7V79+7G 仙台市、宮城県",
+                "global_code": "8RC27V79+7G"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ9SGcKXEpil8R7qUIn2JJad0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51,
+            "vicinity": "仙台市青葉区国分町２丁目７−５ 国分町ＫＹパークビル １階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2689465,
+                    "lng": 140.8653121
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.27033332989273,
+                        "lng": 140.8666720798927
+                    },
+                    "southwest": {
+                        "lat": 38.26763367010729,
+                        "lng": 140.8639724201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "濃厚鶏そば シロトリコ",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/115997189605056322335\"\u003e河本悟\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFjZhxmnCjSu01OXgGtvDSzGIyhM0QiwqRuN_IqkCnMioGG99HnpK79uY8vsgsHK2Nn52jqnndPpDsoqJhJ8JSDzpIPCMvp9H_Lb1WxYpktUo7gZRpXG1of1hfpJAixLCvg-aPxp9U6zCaI4lN22w8_2u8WEBYA_AxfQMZW7HX0Fqbc",
+                    "width": 5333
+                }
+            ],
+            "place_id": "ChIJv21mwS0oil8Rl-pZyWMHwIU",
+            "plus_code": {
+                "compound_code": "7V98+H4 仙台市、宮城県",
+                "global_code": "8RC27V98+H4"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJv21mwS0oil8Rl-pZyWMHwIU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 377,
+            "vicinity": "仙台市青葉区木町通１丁目１−２３ 永沼ビル １階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2658192,
+                    "lng": 140.8684223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26710537989273,
+                        "lng": 140.8697915298928
+                    },
+                    "southwest": {
+                        "lat": 38.26440572010728,
+                        "lng": 140.8670918701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "仙臺 くろく 定禅寺 umami",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2895,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/111722337550130545143\"\u003eGenli Wu\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFhQFu-Ris1NTlgr9rJfm_6m7L6rrs1TDDbysRsQfTq78g8pw0ujzRNGKenFXW6SlxBStKMe_RONb-Dd1jhZcVBUxTq9edLybCXhvxzQCwYjGC2RvuMqcMn4IOkT0JiM3_WnqEyEmrioFf7mSIl-EXflkY-M13dAoxjViuMisD1UQyR1",
+                    "width": 2895
+                }
+            ],
+            "place_id": "ChIJ47GfzkEpil8RJiZvPG_8X_o",
+            "plus_code": {
+                "compound_code": "7V89+89 仙台市、宮城県",
+                "global_code": "8RC27V89+89"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJ47GfzkEpil8RJiZvPG_8X_o",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 168,
+            "vicinity": "仙台市青葉区国分町３丁目３−３"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2646045,
+                    "lng": 140.8694728
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26591287989272,
+                        "lng": 140.8708380798927
+                    },
+                    "southwest": {
+                        "lat": 38.26321322010727,
+                        "lng": 140.8681384201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ラーメン・餃子あんしゃん",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2440,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106052013245407078611\"\u003e原田紀\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFiIlxboNLq1B-_PpMnok8Xh4hLKIEc9M9-mRRW7X51-YLXjKIzHeS4diyhmS214kfe7vgWmy7r3KuysJFHxlf5WEndndxSv0Lp1Z8Xdh1pe7vorC5m_b2m8kIeEyh0xqHa8izGM4nnPn80B_5wExhY5Y1RcIwQ4u9Wkl7IHxx9fjX30",
+                    "width": 3453
+                }
+            ],
+            "place_id": "ChIJzezfrTooil8RURJE60PucnA",
+            "plus_code": {
+                "compound_code": "7V79+RQ 仙台市、宮城県",
+                "global_code": "8RC27V79+RQ"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJzezfrTooil8RURJE60PucnA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 195,
+            "vicinity": "仙台市青葉区国分町２丁目１１−６"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.263642,
+                    "lng": 140.8698584
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26499182989272,
+                        "lng": 140.8712082298927
+                    },
+                    "southwest": {
+                        "lat": 38.26229217010727,
+                        "lng": 140.8685085701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "餃子・ラーメン専門店ふろ家",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104430564518112379543\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFiUkBWZLR0GwkMTgQc3dlFlDBARbwLumFpPQw49R-NBnRXzAWJ9jTb-8AcGiQUn7mi3bzHfSJ2ccxfbrGDiypY273-IbgtyL-a7J_qp8JCQOxsRnnGugkXZrpnzWFYxg5_N6RReXOoXen4gHLVgSR41mEHzD_xVw8wZWHbdyiIEz_YP",
+                    "width": 5504
+                }
+            ],
+            "place_id": "ChIJB-s2wzooil8Rq0oV-lWzc04",
+            "plus_code": {
+                "compound_code": "7V79+FW 仙台市、宮城県",
+                "global_code": "8RC27V79+FW"
+            },
+            "price_level": 2,
+            "rating": 3.5,
+            "reference": "ChIJB-s2wzooil8Rq0oV-lWzc04",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124,
+            "vicinity": "仙台市青葉区国分町２丁目１０−１０ 勝徳不動産勝徳ビル １階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2635803,
+                    "lng": 140.8700011
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26496087989272,
+                        "lng": 140.8715051298927
+                    },
+                    "southwest": {
+                        "lat": 38.26226122010728,
+                        "lng": 140.8688054701072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "将神蔵",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106260917133936471586\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFiXNspoia1wxhhTWWLtaMj7wixIbE1QwC4cSbG9A3hJE6gximz5I7Ji99MJDWLUx9fNXKQk9An02uIKkVF4wOg87I3TQjPtE2gE3yGdW3RSgpIus6EoRFjg0n1PeeeaVXm77HnrIetFijX0hMZcTx2RWubEV7bkL9k903bB1uzbvV9O",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJXTzsWdIpil8RRPc6HJCVb4o",
+            "plus_code": {
+                "compound_code": "7V7C+C2 仙台市、宮城県",
+                "global_code": "8RC27V7C+C2"
+            },
+            "rating": 3.7,
+            "reference": "ChIJXTzsWdIpil8RRPc6HJCVb4o",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 204,
+            "vicinity": "仙台市青葉区国分町２丁目１０−１０ 勝徳ビル 1階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2636659,
+                    "lng": 140.8700098
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26501572989272,
+                        "lng": 140.8713596298927
+                    },
+                    "southwest": {
+                        "lat": 38.26231607010727,
+                        "lng": 140.8686599701072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "一閃閣",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2248,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/101106137476541957055\"\u003e山口大介\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFhgqERxbRQvZCqJwvwW7BXgckdA-5Kg6qsrdVW0fuyk8W3hTu8fMu5ZInyD5B-gcQ9y6QFI859tLbzXJz-XVUOQF0iouwci_NMNzMYq-IG6u3tMQCaHVMKPOrxlm4MVIUtrKZ52WMH1Y_I5wzN0TJ0jkoM1zx7rxfSJFIdRWlrHH0TG",
+                    "width": 2997
+                }
+            ],
+            "place_id": "ChIJB-s2wzooil8RtkDau39AUNE",
+            "plus_code": {
+                "compound_code": "7V7C+F2 仙台市、宮城県",
+                "global_code": "8RC27V7C+F2"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJB-s2wzooil8RtkDau39AUNE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 802,
+            "vicinity": "仙台市青葉区国分町２丁目１０−１０ 勝徳不動産勝徳ビル １階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2655383,
+                    "lng": 140.869467
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26695547989272,
+                        "lng": 140.8707947798927
+                    },
+                    "southwest": {
+                        "lat": 38.26425582010727,
+                        "lng": 140.8680951201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ラーメン山岡家 定禅寺通店",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/105363925942076664340\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFi7cs_0rp_v0JOVuHFJsvz1phJIuh2E2WbawX9t1r6DdB9kPy0skprtkucv0zW5EBwDB6syhw7Cb6XPYHmmvW9gwSkMG3V8ejxmXr7YgIS5dmMgX-Jkj-7bWN20YlV8vYQLzZNhMlsBuIiAcRnYYSpDNRCyHORA7kEHvYay9sbrGtTR",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpcnNQW4pil8RgCGAWfU2km4",
+            "plus_code": {
+                "compound_code": "7V89+6Q 仙台市、宮城県",
+                "global_code": "8RC27V89+6Q"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJpcnNQW4pil8RgCGAWfU2km4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 253,
+            "vicinity": "仙台市青葉区国分町２丁目１５−１６ DAISYビル 1階"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.266002,
+                    "lng": 140.8693998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26735892989272,
+                        "lng": 140.8707793798928
+                    },
+                    "southwest": {
+                        "lat": 38.26465927010727,
+                        "lng": 140.8680797201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "超熟成辛味噌タンメン カラ助",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2016,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/115419299374431181126\"\u003e宮崎ゆーけー\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFjP7CcZzQhgAIShYUCSDixhY59zVpEij5srL0rEF-KgViXlCMvKgwCnwou4KLxCD5ekN982L9vxxM_ao1DNBep8Jq3qRkGZIy2h-aOt1UgQ-vNoMlnvlyhYWKL9vzXxHQ89tvMdo8RCRoRyqABV5srQWQbE9tJC7vyS6Coq5yJvfgYU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjx_J6y8oil8RVjUxAv0N17E",
+            "plus_code": {
+                "compound_code": "7V89+CQ 仙台市、宮城県",
+                "global_code": "8RC27V89+CQ"
+            },
+            "price_level": 2,
+            "rating": 3.5,
+            "reference": "ChIJjx_J6y8oil8RVjUxAv0N17E",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 234,
+            "vicinity": "仙台市青葉区国分町３丁目２−１"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2676738,
+                    "lng": 140.8683738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26901627989271,
+                        "lng": 140.8696817298927
+                    },
+                    "southwest": {
+                        "lat": 38.26631662010727,
+                        "lng": 140.8669820701072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "中華そば 嘉一 国分町店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2608,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/100255772238588196415\"\u003etak tokyo\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFjFJVrEYz2Uuh_w_T22lO0uHZ_uULYl1oO2LKKpEgGU5pjrO1RbyaO_-dRAeMSwP2o8FnZsO0NVaZyBI19B-h-1RGKKUaA0W1kw75yr-hHYNGLFwm0WSYd2lS20olTVdxfsmCqr4QAwm8IhnjXMSX00EqbCAcI6V9YFh1v95kj4hVKQ",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJ5eSxWy4oil8ROIK8bTn2jHk",
+            "plus_code": {
+                "compound_code": "7V99+38 仙台市、宮城県",
+                "global_code": "8RC27V99+38"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ5eSxWy4oil8ROIK8bTn2jHk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1286,
+            "vicinity": "仙台市青葉区国分町３丁目８−１２"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 38.2646269,
+                    "lng": 140.8704197
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.26600712989272,
+                        "lng": 140.8717610798927
+                    },
+                    "southwest": {
+                        "lat": 38.26330747010728,
+                        "lng": 140.8690614201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "北○ラーメン",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106118847943127773332\"\u003e斉藤むーさん\u003c/a\u003e"
+                    ],
+                    "photo_reference": "AWU5eFia3BfUxJvO6Hixh7y7K-l3MR14-dynLxCPs03Oe-h_Mkj_5_O5k2nlbGRXyBlvebsxv5pAmWO_sIMOUwyiDztECodSJdef4zC5g3nvUwjROWH4EuomDs5_Tcwron-J-83x-SWdMVUKj9DfrPkkku9Tl-U9z397-R2wvy2y1HDkAwc_",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJJTlzTCUoil8RnFhxzDeSP8M",
+            "plus_code": {
+                "compound_code": "7V7C+V5 仙台市、宮城県",
+                "global_code": "8RC27V7C+V5"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJJTlzTCUoil8RnFhxzDeSP8M",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 202,
+            "vicinity": "仙台市青葉区一番町４丁目４−２３"
+        }
+    ],
+    "status": "OK"
+}

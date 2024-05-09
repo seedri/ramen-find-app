@@ -1,0 +1,421 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "５２−１",
+                "short_name": "５２−１",
+                "types": [
+                    "premise"
+                ]
+            },
+            {
+                "long_name": "川内亀岡町",
+                "short_name": "川内亀岡町",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "青葉区",
+                "short_name": "青葉区",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "仙台市",
+                "short_name": "仙台市",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "宮城県",
+                "short_name": "宮城県",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "日本",
+                "short_name": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "980-0865",
+                "short_name": "980-0865",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒980-0865\u003c/span\u003e \u003cspan class=\"region\"\u003e宮城県\u003c/span\u003e\u003cspan class=\"street-address\"\u003e仙台市青葉区川内亀岡町５２−１\u003c/span\u003e",
+        "business_status": "OPERATIONAL",
+        "current_opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": "2023-12-04",
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "date": "2023-12-03",
+                        "day": 0,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-05",
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "date": "2023-12-04",
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-06",
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "date": "2023-12-05",
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-07",
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "date": "2023-12-06",
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-02",
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "date": "2023-12-01",
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "date": "2023-12-03",
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "date": "2023-12-02",
+                        "day": 6,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "月曜日: 17時00分～0時00分",
+                "火曜日: 17時00分～0時00分",
+                "水曜日: 17時00分～0時00分",
+                "木曜日: 定休日",
+                "金曜日: 17時00分～0時00分",
+                "土曜日: 12時00分～0時00分",
+                "日曜日: 12時00分～0時00分"
+            ]
+        },
+        "delivery": false,
+        "dine_in": true,
+        "formatted_address": "日本、〒980-0865 宮城県仙台市青葉区川内亀岡町５２−１",
+        "formatted_phone_number": "022-712-5320",
+        "geometry": {
+            "location": {
+                "lat": 38.2615873,
+                "lng": 140.8472506
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.2628996802915,
+                    "lng": 140.8485812302915
+                },
+                "southwest": {
+                    "lat": 38.2602017197085,
+                    "lng": 140.8458832697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+81 22-712-5320",
+        "name": "スタミナラーメンさわき",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "月曜日: 17時00分～0時00分",
+                "火曜日: 17時00分～0時00分",
+                "水曜日: 17時00分～0時00分",
+                "木曜日: 定休日",
+                "金曜日: 17時00分～0時00分",
+                "土曜日: 12時00分～0時00分",
+                "日曜日: 12時00分～0時00分"
+            ]
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/104693820088800945082\"\u003e魔法少女さくら\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFiXcixlenw6qwjlQ2KsQX5p122RNAXwJP6yCx4mgpvsSyTZPUKDi4XX9QeXfTgRLQcqvX4Dewrt5whGtV2WDUn92qyLaoWApMEfXPHG164KackV3FgMwVOVK7HmEUCxACOEESPxqV4XjP4Ayanl3p_E-JEgr_A5i5nFpwmMkzJYHK7Y",
+                "width": 3264
+            },
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/114579307043921226777\"\u003etaiyo\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFhp7ITWScs9cXZ8DoBonbJJa-bXhwDU1I13eNaF_P3nJlvcNAQ1gp_VxEnXVFZ-Xt0BkyI8fgA2Wx4UG2qtzPEx-aUFFrIvPsrvS7MiYGO_ZX8ARtToF-_cvGpYDodrSp9Xgq_r_IlStJjFzg-TmXfM4n3P8tGQ4W0fO--EwV-_Iufo",
+                "width": 4160
+            },
+            {
+                "height": 3852,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/110636587040077472296\"\u003eTakanori Kusaka\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFhFHJUMmgaGjISPxcKcyts2HNcj13jDpJvly_ULwAWKLM-2UUkZ1XK2LcHmGY_qtJ5xfAcC_SBG4llJ6eZU1p8Hoyj2PuPkxCRKwr0wQrayRDfTsSn57SoMYUgjWCnU_UIzA5586FF2oTbC7h21DbFCVmKFX2nmtCoh9UaqOGs_t4mq",
+                "width": 5136
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/111475578270224483177\"\u003eKoji Kurosawa\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFgY_TLDV8ntqUOFUAsu7ddCOHw5xH2QGFIbB341yYcYg9ZgCKbKRJVXhQccyCzI7O0MswDvPYm34brspSRI4JSYDd41BJsAiUvJUt0s5WV00VSc4Hc_KYjRJecDbb8NaKg_uGJbDWF7evbAFROXrtLFmE4RUDAsikAcjHA0kGo29u0",
+                "width": 4032
+            },
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/114579307043921226777\"\u003etaiyo\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFg8hyMwEyueQNOhB0sKngKoCm086XA5EaGjWmU4p4zT1RGVz3eg_KwKc050mCt4pRtODjOgYAlQTgGR-86jiuGLCRclvaJwuId-bucG7dWgDinNPHphC2zOD8OsH14IffX4H49ZiXJEARluqhjJJjbCsngR_-7lA82lyxZiy0-R2gSG",
+                "width": 4160
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/100995705936137567314\"\u003eWelder Legend (MADE IN 日本職人)\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFin5Ai0hTZqasfpGUyk2bXlmH7sW0ikFS7yfSBmCYL8KuKB-xpRMvHvvj3LHwDXEZq-PPGulqquY3b7VvEmNGD_C2lElMV9su6w_zciY7NKDhw-ZBJmEOZNErYIRdRbwpxjJ0SWAbbTNkV96sru5sejraow8nlaYXgaHnsKNcBsLXl1",
+                "width": 3024
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/114089772889817073155\"\u003e王雅芬\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFgGVRYZLA_-tZuw7VP4HtS18qp1TQbeHBU0lPUOKQRFo5BvZfAIZsD-mfkw0SWhcECL7Zjyq1Mqq5k1IDddALZtZXIat9JmKOyyQ7VbP9Qalrmj4MEtJSASD15sIacuD0PoupUR5kKifGjFwcGlxuSHQ4_Wn9tLLL5MruKzKS3_Bgt1",
+                "width": 3024
+            },
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/108937137074528325394\"\u003eSpotといっしょ\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFg5lvNVDJzvSGEwfbsbZ75gmV4MhvI4zHiu8IzI-Aaa0GLWIaggxFI0bd6QNCZilnORVnSXnx3qkEbch-lg2js4EbSxh2ETBPEvPmZ_HxgWeTFTNGUcYHbQJ28NuCoCM304CFVMS_Y7YQrKI-6nytWUHm_Xamldm8zozgzmru978dI5",
+                "width": 5472
+            },
+            {
+                "height": 3468,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/106469484892785478361\"\u003e成彰\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFj2VU5SUCtL8T532bm0_qvJgbIdAsIULy6SjCcPcIH67xX-F42jdFMQH6qNhcAX_LTHY7eyZDy6iZmh4Ofor9NZtCLIr3yHC8LrqgcNSlpciG1ghCanMI1EWj1L7ZKpTT6GnluHgVRthCtBJuZQk34VALzGYrUYir8-0t-zX_YGW3CH",
+                "width": 4624
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "\u003ca href=\"https://maps.google.com/maps/contrib/107205601820554992175\"\u003e日本男児\u003c/a\u003e"
+                ],
+                "photo_reference": "AWU5eFhS8B2qebYHTokVI-NGJqh3WUIUl_c6ozb1sQjoUMXVTGfsJ3vF6nMjPGDk25cAjOlhuMFmBrfhXHamDy82kJvgADqU2mwFaTouax_agQYDBmfjdM3aPaL7gT5EcTkUVCgh8JWax3MD5xKCcZEtiWY9SnGnPoFjRHV22g3tkfAlI4-z",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJJRooEUwoil8Ry4JuWitvTqA",
+        "plus_code": {
+            "compound_code": "7R6W+JW 日本、宮城県仙台市",
+            "global_code": "8RC27R6W+JW"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJJRooEUwoil8Ry4JuWitvTqA",
+        "reservable": false,
+        "reviews": [
+            {
+                "author_name": "k s",
+                "author_url": "https://www.google.com/maps/contrib/102361017299860512602/reviews",
+                "language": "ja",
+                "original_language": "ja",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjp-K_SIq0nzTyShWPUSAf--o-nPU_lSm9pL7Uz8MaXEl9=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "2 か月前",
+                "text": "スタミナラーメン美味しいです。\nニンニクすごいというコメント多いですが、ニンニク好きの身としては、もう少し入れたいくらいです。\n個人的にはラーメンに酢を入れて食べるのが好きなのですが、ここのラーメンは酢との相性抜群です。\nラーメン野菜増しは、はくさいが増し増しでくるのではくさい苦手な方はきついのかなー。\n他では味わえないラーメンだと思います。\n店員さんも外国人の方がちらほら見られますが、みなさん一生懸命です。\nオーナーさん？なのか年配の女性は、愛想よくないように見えますが、さばさばしてるだけで、優しい方だと思います。\nお客さんの層は学生や一人で来てる方が多いように見えます。\nお店のなかは野球のグッズが飾られており、飲みに来てる方達もちょっとワイワイしていて、食べたらさっさとぱっぱと帰りたいです。",
+                "time": 1695210042,
+                "translated": false
+            },
+            {
+                "author_name": "Welder Legend (MADE IN 日本職人)",
+                "author_url": "https://www.google.com/maps/contrib/100995705936137567314/reviews",
+                "language": "ja",
+                "original_language": "ja",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsZUo8e-1q6aXudoPPXzPZ4nP9F0rLMlD1_l89fLh1Ppo=s128-c0x00000000-cc-rp-mo-ba6",
+                "rating": 5,
+                "relative_time_description": "1 か月前",
+                "text": "店自体は余り大きく無く、近くに学生さんも多く常に繁盛している感じ、食べたら出て行くと言ったローテーションが早い、スタミナラーメンがやたら美味い、",
+                "time": 1696236212,
+                "translated": false
+            },
+            {
+                "author_name": "んちゃん",
+                "author_url": "https://www.google.com/maps/contrib/106105615659300479517/reviews",
+                "language": "ja",
+                "original_language": "ja",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs_FvKdHV3KJria1MYzp-BHFofcBL30E_u5MLdhQbxVYw=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 5,
+                "relative_time_description": "9 か月前",
+                "text": "唯一無二のお店だと思います。名物のスタミナラーメンをいただいたのですが美味しすぎて感動です。スープがとにかく美味しい。絶対にライスと一緒に食べることをおすすめしたいです。こんなにライスに合うスープ、ないと思います。麺大好き県から引っ越してきて、うーん？というお店ばかりだったのですがこちらは本当に本当に美味しいです。えびせんやアイスなどもいただいて、スタッフさんたちも優しいです。店内とてもにぎわっていて遅い時間でも学生さんや仕事終わりの方たちでにぎわっている印象でした！絶対にまた行きたい場所です！通います！ごちそうさまでした！！",
+                "time": 1676520356,
+                "translated": false
+            },
+            {
+                "author_name": "Kise I",
+                "author_url": "https://www.google.com/maps/contrib/112734415915008108206/reviews",
+                "language": "ja",
+                "original_language": "ja",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQLDMSARyMrYAuIMhH90zXRcGgvBxToCVhz8ZIEYyEmTE=s128-c0x00000000-cc-rp-mo-ba6",
+                "rating": 4,
+                "relative_time_description": "5 か月前",
+                "text": "看板のスタミナラーメンは、ペペロンチーノ風で辛味とにんにくの風味が癖になります！定期的に食べたくなること必須。\n面白いメニューが沢山あって、親しい友人とだらしない格好で言いたい事を酔っ払いながら楽しみたいそんなお店。（褒めてます）\n夕飯作るのが面倒な時に家族でお風呂上がりに来たいお店かな。",
+                "time": 1687341059,
+                "translated": false
+            },
+            {
+                "author_name": "Takanori Kusaka",
+                "author_url": "https://www.google.com/maps/contrib/110636587040077472296/reviews",
+                "language": "ja",
+                "original_language": "ja",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDHle33xEuwfima3ckgU0Fl1IMeyIT6LVlKqHdmI484w=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "7 か月前",
+                "text": "久々にスタミナラーメン頂きました。\nちょい辛ニンニクスープに野菜たっぷり！緑の麺が特徴です。いつもこれを注文してしまうのですが、違うモノも食べに行きたいです。\n店舗は古いし店内は昭和…そして阪神好きなお店！\nおっさんには懐かしい雰囲気で好きです。\n駐車場は狭いですが車６台駐車可能だと思います。",
+                "time": 1682252510,
+                "translated": false
+            }
+        ],
+        "serves_beer": true,
+        "serves_breakfast": false,
+        "serves_dinner": true,
+        "serves_lunch": true,
+        "serves_vegetarian_food": false,
+        "serves_wine": false,
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=11551292326243369675",
+        "user_ratings_total": 375,
+        "utc_offset": 540,
+        "vicinity": "仙台市青葉区川内亀岡町５２−１",
+        "wheelchair_accessible_entrance": false
+    },
+    "status": "OK"
+}
