@@ -8,10 +8,10 @@ Google Mapから写真やレビューも取得可能。<br>
 飲み会終わりに、歩いて行ける距離の締めのラーメン屋をすぐに探したい時や、土地勘のない場所で夜遅い時間に営業している店を知りたい時に有効です。
 
 ## スクリーンショット（iOSストア画像）
-<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/7d4d48ee-fa48-4eb6-8103-a29323b6509c" width = 20%>
-<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/a7ebf083-10ce-4be7-93c5-00fe6b544b79" width = 20%>
-<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/fa753bc2-1714-4f6b-bd20-8323b8abf4b2" width = 20%>
-<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/b282aafd-c2cb-4a65-a77c-bbe1b712a14a" width = 20%>
+<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/4bc6b2bf-a920-40dd-9781-4a527031b979" width = 20%>
+<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/9d40c65b-d476-4ed0-9946-e1550af05032" width = 20%>
+<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/59a5e9f9-5e9a-4b5c-888a-07aab2e2b763" width = 20%>
+<img src = "https://github.com/seedri/ramen-find-app/assets/70645275/905bdd65-5e31-4099-b77b-3b9de32850f3" width = 20%>
 
 
 ## 使用技術
