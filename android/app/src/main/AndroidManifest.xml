@@ -30,10 +30,6 @@
         android:label="爆速ラーメン"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-                    <meta-data
-              android:name="com.google.android.geo.API_KEY"
-              android:value="@string/KEY"
-              />
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -56,5 +52,9 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+            <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-7585032538907137~4817121830" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/KEY"/>
     </application>
 </manifest>

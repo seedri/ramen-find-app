@@ -4,7 +4,7 @@ class AdManager {
   // アプリIDを返す関数
   static String get appId {
     if (Platform.isAndroid) {
-      return "ca-app-pub-7585032538907137/5176767457";
+      return "ca-app-pub-7585032538907137~4817121830";
     } else if (Platform.isIOS) {
       return "ca-app-pub-7585032538907137~1445104687";
     } else {
