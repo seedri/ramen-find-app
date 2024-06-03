@@ -13,7 +13,7 @@ class PhotosTab extends StatelessWidget {
   Widget build(BuildContext context) {
     return GridView.builder(
       shrinkWrap: true,
-      itemCount: storeDetail.photoReferences.length,
+      itemCount: storeDetail.photoReferences.length - 2,
       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
         crossAxisCount: 2,
         crossAxisSpacing: 3,

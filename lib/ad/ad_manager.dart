@@ -20,7 +20,7 @@ class AdManager {
     if (Platform.isAndroid) {
       return "ca-app-pub-3940256099942544/6300978111"; // テストID
     } else if (Platform.isIOS) {
-      return bannerId;
+      return bannerIdTest;
     } else {
       throw UnsupportedError("Unsupported platform");
     }
@@ -34,7 +34,7 @@ class AdManager {
     if (Platform.isAndroid) {
       return "ca-app-pub-3940256099942544/9257395921"; // テストID
     } else if (Platform.isIOS) {
-      return appOpenId;
+      return appOpenIdTest;
     } else {
       throw UnsupportedError("Unsupported platform");
     }
